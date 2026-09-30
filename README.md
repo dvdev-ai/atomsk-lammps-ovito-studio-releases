@@ -11,7 +11,7 @@
 
 | Система | Файл |
 |---|---|
-| macOS 13+, Apple Silicon (M1 и новее) | `ATOMSK-LAMMPS-OVITO-Studio-0.2.0-mac-arm64.dmg` |
+| macOS, Apple Silicon (M1 и новее), проверено на macOS 26 | `ATOMSK-LAMMPS-OVITO-Studio-0.2.0-mac-arm64.dmg` |
 | Windows 10 и 11, 64 бит | `ATOMSK-LAMMPS-OVITO-Studio-Setup-0.2.0.exe` |
 
 ATOMSK, LAMMPS и OVITO уже внутри. Python, Homebrew и интернет не нужны.
